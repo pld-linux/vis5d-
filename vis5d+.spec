@@ -30,7 +30,7 @@ Requires:       %{name} = %{version}-%{release}
 Vis5d development information. API and script info.
 
 %description devel -l pl.UTF-8
-Informacje potrzebne do tworzenia aplikacji wsp<82>pracuj�<85>cych z
+Informacje potrzebne do tworzenia aplikacji współpracujących z
 programem Vis5d.
 
 %package static

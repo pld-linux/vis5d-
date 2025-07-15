@@ -47,7 +47,7 @@ Biblioteki statyczne dla Vis5d+
 
 %prep
 %setup -q
-# %patch0 -p1
+# %%patch0 -p1
 
 %setup -q
 
